@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Setup
 title:            Blog
-#tagline:          'Blog'
+tagline:          'Antoine Lyset'
 description:      'Some news from <a href="https://twitter.com/antoinelyset">@antoinelyset</a>.'
 url:              http://blog.antoinelyset.com
 
